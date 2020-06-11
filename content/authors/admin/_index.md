@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Viviana Chiu Sik Wu"
+title: "Viviana C.S. Wu"
 
 # Username (this should match the folder name)
 authors:
